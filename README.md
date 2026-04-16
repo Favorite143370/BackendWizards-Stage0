@@ -1,5 +1,13 @@
 # Backend Wizards Stage 0
 
+## Live API
+
+Base URL:
+https://backendwizards-stage0-production.up.railway.app
+
+Test Endpoint:
+https://backendwizards-stage0-production.up.railway.app/api/classify?name=john
+
 ## API Endpoint
 GET /api/classify?name={name}
 
